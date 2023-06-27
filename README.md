@@ -1,2 +1,2 @@
 # Enigma-Machine
-An Enigma Machine In Haskell for a university project
+An Enigma Machine In a functional programming language
