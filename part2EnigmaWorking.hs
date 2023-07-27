@@ -1,7 +1,3 @@
-{-- Stub for the grading assignment. Fill it in, making sure you use good
- -- functional style, and add comments (including replacing those that are
- -- already here).
---}
 
 module Enigma where
   import Data.Char  -- to use functions on characters
